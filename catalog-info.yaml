@@ -4,7 +4,10 @@ metadata:
   name: hello-there
   annotations:
     github.com/project-slug: edin-mahmutovic/hello-there
-    edinmahmutovic.com/tier: Tier 1
+    tier: Tier 1
+    stream-lead: John Joe
+    engineering-manager: Jane Doe
+    tech-lead: James Bond
 spec:
   type: sample
   owner: edin-mahmutovic
