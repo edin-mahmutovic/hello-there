@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hello-there
+  annotations:
+    github.com/project-slug: edin-mahmutovic/hello-there
+    edinmahmutovic.com/tier: Tier 1
+spec:
+  type: sample
+  owner: edin-mahmutovic
+  lifecycle: experimental
+  tier: Tier 1
