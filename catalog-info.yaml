@@ -8,7 +8,7 @@ metadata:
     additional-info/stream-lead: John Joe
     additional-info/engineering-manager: Jane Doe
 spec:
-  type: sample
+  type: service
   owner: edin-mahmutovic
   lifecycle: experimental
   tier: Tier 1
